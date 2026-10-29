@@ -1,6 +1,6 @@
 # Hey, I'm Leider 👋
 
-💻 Software Engineer from Colombia 🇨🇴
+💻 Software Engineer from Colombia
 
 I like building useful things with code, finding ways to automate repetitive tasks, and turning ideas into projects.
 
