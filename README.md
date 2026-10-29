@@ -20,7 +20,7 @@ I'm curious about how technology works and always looking for something new to l
 
 <p align="center">
   <img
-    src="./tools.png"
+    src="./tools.jfif"
     alt="My technology ecosystem"
     width="100%"
   />
